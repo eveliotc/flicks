@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.0.1)
+  - AlamofireImage (3.1.0):
+    - Alamofire (~> 4.0)
+  - MBProgressHUD (1.0.0)
+  - ModelMapper (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireImage (~> 3.1)
+  - MBProgressHUD (~> 1.0)
+  - ModelMapper (~> 5.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  AlamofireImage: bb8c8351c51cb1633bb6be69b6dbbaff37ce65b7
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  ModelMapper: 89ced1f51ec6360e93f6889d08c818d4cad526a3
+
+PODFILE CHECKSUM: d55f970b18fbb544d3ce7bea1564ffbee54890fc
+
+COCOAPODS: 1.0.1
